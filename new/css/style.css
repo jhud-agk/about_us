@@ -168,7 +168,6 @@ p {
   color: #80e27e; }
 
 .card {
-  width: 100%;
   border-radius: 0px;
   border: 1px solid #ebebf2; }
 
@@ -310,7 +309,7 @@ tr {
   .bg-dark {
     background-color: rgba(2, 2, 2, 0) !important; }
   .card {
-    /*width: 20rem;*/ } }
+    width: 20rem; } }
 
 @media (max-width: 500px) {
   .bg-dark {
