@@ -376,6 +376,9 @@ label {
   transition: .5s ease;
   opacity: 20px; }
 
+.post {
+  border-radius: 10px; }
+
 .show_text:hover .overlays {
   /*height: 100%;*/
   height: 70%; }
